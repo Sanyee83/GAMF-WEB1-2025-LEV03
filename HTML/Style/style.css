@@ -1,0 +1,21 @@
+<style> 
+    
+ol li.important {
+    color: red;
+}
+
+li[disabled]
+{
+    opacity: 0.3;
+
+}
+    
+.container>.row>.col-12 {
+    background-color: lightblue;
+}
+
+.col-12 {
+    background-color: lightgreen;
+}
+
+</style>
