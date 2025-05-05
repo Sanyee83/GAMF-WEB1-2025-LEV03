@@ -1,4 +1,4 @@
-const apiUrl = 'https://nettuts.hu/jms/Sanyee83';
+const apiUrl = 'https://nettuts.hu/jms/Sanyee83/';
 
 export const getAll = (entity = 'users') => 
     {
