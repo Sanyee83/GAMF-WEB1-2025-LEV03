@@ -1,0 +1,1 @@
+const apiUrl = 'https://nettutts.hu/jms/Sanyee83';
