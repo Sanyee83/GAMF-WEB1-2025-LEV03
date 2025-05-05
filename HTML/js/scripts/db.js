@@ -1,1 +1,6 @@
-const apiUrl = 'https://nettutts.hu/jms/Sanyee83';
+const apiUrl = 'https://nettuts.hu/jms/Sanyee83';
+
+export const getAll = (entity = 'users') => 
+    {
+    return  fetch(apiUrl + entity).then(res => res.json());
+    }
